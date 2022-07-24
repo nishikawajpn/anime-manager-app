@@ -1,0 +1,80 @@
+[
+  {
+    "name": "account",
+    "path": "/account",
+    "component": "/Users/nishikawatakeshi/Work/anime-manager/pages/account.vue",
+    "chunkName": "pages/account",
+    "_name": "_7cd38bdc"
+  },
+  {
+    "path": "/anime",
+    "component": "/Users/nishikawatakeshi/Work/anime-manager/pages/anime.vue",
+    "chunkName": "pages/anime",
+    "children": [
+      {
+        "name": "anime",
+        "path": "",
+        "component": "/Users/nishikawatakeshi/Work/anime-manager/pages/anime/index.vue",
+        "chunkName": "pages/anime/index",
+        "_name": "_2509f0a6"
+      },
+      {
+        "name": "anime-search",
+        "path": "search",
+        "component": "/Users/nishikawatakeshi/Work/anime-manager/pages/anime/search.vue",
+        "chunkName": "pages/anime/search",
+        "_name": "_27f2fd84"
+      },
+      {
+        "name": "anime-edit-id",
+        "path": "edit/:id?",
+        "component": "/Users/nishikawatakeshi/Work/anime-manager/pages/anime/edit/_id.vue",
+        "chunkName": "pages/anime/edit/_id",
+        "_name": "_2f1d7091"
+      }
+    ],
+    "_name": "_04d6ff3a"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/nishikawatakeshi/Work/anime-manager/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_4b0353ee"
+  },
+  {
+    "name": "storage",
+    "path": "/storage",
+    "component": "/Users/nishikawatakeshi/Work/anime-manager/pages/storage.vue",
+    "chunkName": "pages/storage",
+    "_name": "_29df6d2a"
+  },
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "/Users/nishikawatakeshi/Work/anime-manager/pages/auth/login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_1838cce3"
+  },
+  {
+    "name": "auth-reset",
+    "path": "/auth/reset",
+    "component": "/Users/nishikawatakeshi/Work/anime-manager/pages/auth/reset.vue",
+    "chunkName": "pages/auth/reset",
+    "_name": "_1158d06e"
+  },
+  {
+    "name": "auth-signup",
+    "path": "/auth/signup",
+    "component": "/Users/nishikawatakeshi/Work/anime-manager/pages/auth/signup.vue",
+    "chunkName": "pages/auth/signup",
+    "_name": "_3b3abc8e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/nishikawatakeshi/Work/anime-manager/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_eac46c7e"
+  }
+]

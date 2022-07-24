@@ -1,0 +1,26 @@
+{
+  "AnimeList": {
+    "description": "Auto imported from components/AnimeList.vue"
+  },
+  "FlashMessage": {
+    "description": "Auto imported from components/FlashMessage.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "SearchForm": {
+    "description": "Auto imported from components/SearchForm.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  }
+}
