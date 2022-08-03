@@ -9,7 +9,7 @@
 $ npm install
 ```
 
-Firebaseプロジェクトを作成し、Firebaseをインストールします。
+Firebaseプロジェクトを作成し、webアプリを作成し、Firebaseをインストールします。
 
 ```bash
 $ npm install firebase
@@ -28,7 +28,9 @@ const firebaseConfig = {
 };
 ```
 
-ビルドしてください。
+FirebaseのAuthentication（メール / パスワード）とFirestore Databaseを有効化します。
+
+最後にビルドしてください。
 
 ```bash
 # serve with hot reload at localhost:3000
