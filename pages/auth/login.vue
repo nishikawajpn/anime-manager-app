@@ -63,12 +63,12 @@ export default {
   data() {
     return {
       valid: true,
-      email: 'test@test.com',
+      email: '',
       emailRules: [
         v => !!v || 'メールアドレスは必須です。',
         v => /.+@.+\..+/.test(v) || 'メールアドレスが不正です。',
       ],
-      password: 'password',
+      password: '',
       passwordRules: [
         v => !!v || 'パスワードは必須です。',
         v => (v && v.length >= 8) || 'パスワードは8桁以上で入力してください。',

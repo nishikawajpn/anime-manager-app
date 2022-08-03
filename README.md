@@ -9,7 +9,7 @@
 $ npm install
 ```
 
-Firebaseプロジェクトを作成し、webアプリを作成し、Firebaseをインストールします。
+Firebaseプロジェクトを作成し、webアプリを作成して、Firebaseをインストールします。
 
 ```bash
 $ npm install firebase
