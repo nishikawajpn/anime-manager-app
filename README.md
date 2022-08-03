@@ -3,6 +3,12 @@
 
 ## Usage
 
+パッケージをインストールする。
+
+```bash
+$ npm install
+```
+
 Firebaseプロジェクトを作成し、Firebaseをインストールします。
 
 ```bash
